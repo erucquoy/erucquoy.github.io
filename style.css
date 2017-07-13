@@ -1,0 +1,11 @@
+#afillio_button_xxx {
+	position: absolute;
+	right: 0px;
+	top: 100px;
+	background-color: blue;
+	color: white;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
