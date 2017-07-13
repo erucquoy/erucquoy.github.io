@@ -23,7 +23,7 @@ function afillioCore() {
 
 	document.body.appendChild(pluginDiv);
 
-	pluginDiv.addEventListener("click", affilioShowBox, false);
+	pluginDiv.addEventListener("click", afillio.affilioShowBox, false);
 }
 
 
