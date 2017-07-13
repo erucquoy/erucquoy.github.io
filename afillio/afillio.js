@@ -18,6 +18,8 @@ pluginDiv.innerHTML = 'Content (click for test)';
 
 document.body.appendChild(pluginDiv);
 
+pluginDiv.addEventListener("click", afillio.affilioShowBox, false);
+
 
 
 
